@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\tuan3"
+		},
+		{
+			"path": "..\\..\\demo"
+		},
+		{
+			"path": "..\\..\\card_product"
+		},
+		{
+			"path": "..\\..\\card_profile"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "bttivi",
+		"git.ignoreLimitWarning": true
+	}
+}
